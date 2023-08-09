@@ -1,4 +1,4 @@
-# MediaPipe Tasks Hand Landmark Detection Android Demo
+# ASL translator for Android
 
 ### Overview
 
